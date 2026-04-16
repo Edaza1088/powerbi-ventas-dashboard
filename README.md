@@ -55,9 +55,11 @@ Este proyecto presenta un dashboard interactivo desarrollado en Power BI para an
 
 ## 📷 Vista del dashboard
 
-![Dashboard](images/dashboard.png)
+![Dashboard](images/dashboard_v2.png)
 
+## 📷 Vista del dashboard con tooltips
 
+![Dashboard](images/tooltip.png)
 
 ## 👤 Autor
 Edgar Daza
