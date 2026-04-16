@@ -61,5 +61,14 @@ Este proyecto presenta un dashboard interactivo desarrollado en Power BI para an
 
 ![Dashboard](images/tooltip.png)
 
+## 🧠 Conclusión
+
+El análisis muestra que el negocio presenta variaciones mensuales en ventas, con concentración en ciertas categorías y productos.
+
+El crecimiento mensual permite identificar periodos de expansión o contracción, mientras que el análisis de productos revela oportunidades para optimizar inventario y estrategias comerciales.
+
+Este tipo de dashboard facilita la toma de decisiones basada en datos en áreas como ventas, operaciones y planificación.
+
+
 ## 👤 Autor
 Edgar Daza
