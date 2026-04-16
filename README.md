@@ -55,6 +55,7 @@ Este proyecto presenta un dashboard interactivo desarrollado en Power BI para an
 
 ## 📷 Vista del dashboard
 
+![Uploading image.png…]()
 
 
 ## 👤 Autor
